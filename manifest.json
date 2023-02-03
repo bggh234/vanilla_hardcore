@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "uuid": "ac8e03a1-3277-4c28-86c7-76dd8eb169aa",
+        "name": "Vanilla Hardcore Behavior Pack",
+        "version": [0, 1, 0],
+        "min_engine_version": [1, 19, 0],
+        "description": "A Hardcord behavior pack."
+    },
+    "modules": [
+        {
+            "uuid": "7c8d13a1-624a-4975-b9f6-d7cac920197a",
+            "type": "data",
+            "version": [0, 1, 0],
+            "description": "Vanilla Hardcore Behavior Addon"
+        }
+    ]
+}
